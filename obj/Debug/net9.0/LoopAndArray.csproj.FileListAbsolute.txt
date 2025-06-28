@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\bin\Debug\net9.0\LoopAndArray.exe
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\bin\Debug\net9.0\LoopAndArray.deps.json
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\bin\Debug\net9.0\LoopAndArray.runtimeconfig.json
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\bin\Debug\net9.0\LoopAndArray.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\bin\Debug\net9.0\LoopAndArray.pdb
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.AssemblyInfo.cs
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.sourcelink.json
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\refint\LoopAndArray.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.pdb
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.genruntimeconfig.cache
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\ref\LoopAndArray.dll
