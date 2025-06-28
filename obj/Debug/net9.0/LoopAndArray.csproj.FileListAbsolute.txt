@@ -7,7 +7,6 @@ C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debu
 C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.AssemblyInfoInputs.cache
 C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.AssemblyInfo.cs
 C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.csproj.CoreCompileInputs.cache
-C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.sourcelink.json
 C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.dll
 C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\refint\LoopAndArray.dll
 C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.pdb

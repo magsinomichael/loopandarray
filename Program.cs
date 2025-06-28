@@ -7,20 +7,47 @@ namespace WhileLoopExample
     {
         static void Main(string[] args)
         {
-            int number;
-            int sum;
 
-            Console.WriteLine("Enter a number to add. Note: if you type zero(0) number input will stop");
+            // string meal;
 
-            while (true)
+            // do
+            // {
+            //     Console.WriteLine("Enter your favorite Meal. Note: if you type 'exit', program will stop");
+            //     meal = Console.ReadLine();
+
+            //     if (meal != "exit")
+            //     {
+            //         Console.WriteLine($"You entered: {meal}");
+            //     }
+            // } while (meal.ToLower() != "exit");
+            // {
+            //     Console.WriteLine("Program Ended!!!");
+            // }
+
+            // Console.WriteLine("Numbers \t Square");
+
+            // for (int i = 1; i <= 10; i++)
+            // {
+            //     int square = i * i;
+            //     Console.WriteLine($" {i}  \t \t {square}");
+            // }
+            int[] numbers = { 5, 10, 15, 0, 20, 25, -30 };
+
+            Console.WriteLine("Processing numbers....");
+
+            for (int i = 0; i < numbers.Length; i++)
             {
-                Console.Write("Enter a number: ");
-                number = Convert.ToInt32(Console.ReadLine());
-
-                if (number == 0)
+                // if (numbers[i] == 0)
+                // {
+                //     Console.WriteLine("Skipped Zero");
+                //     continue;
+                // }
+                if (numbers[i] < 0)
                 {
+                    Console.WriteLine("We've found a Negative Number. Stopping now");
                     break;
                 }
+                Console.WriteLine($"Numbers: {numbers[i]}");
             }
         }
     }
