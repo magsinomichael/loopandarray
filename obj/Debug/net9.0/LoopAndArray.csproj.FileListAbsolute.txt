@@ -12,3 +12,4 @@ C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debu
 C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.pdb
 C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.genruntimeconfig.cache
 C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\ref\LoopAndArray.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\loop and array\LoopAndArray\obj\Debug\net9.0\LoopAndArray.sourcelink.json
